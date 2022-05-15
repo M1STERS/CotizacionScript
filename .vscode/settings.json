@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Juan\\anaconda3\\envs\\Coti\\python.exe",
+    "python.terminal.activateEnvironment": false,
+    "python.condaPath": "C:\\Users\\Juan\\anaconda3\\Scripts\\conda.exe",
+    "terminal.integrated.cwd": "${fileDirname}",
+    "python.terminal.executeInFileDir": true,
+}
